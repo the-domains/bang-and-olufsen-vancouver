@@ -1,0 +1,28 @@
+name: 'Bang&Olufsen Vancouver'
+favicon: null
+layout_spectrum: 0.39637912693433464
+typography_spectrum: 0.1338572441600263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9533631880767643
+  lightness: 0.6727970587089658
+  saturation: 0.16712246998213232
+  rhythmicContrast: 0.8664350768085569
+purpose: []
